@@ -1,0 +1,10 @@
+rudolf.py
+setup.cfg
+setup.py
+rudolf2.egg-info/PKG-INFO
+rudolf2.egg-info/SOURCES.txt
+rudolf2.egg-info/dependency_links.txt
+rudolf2.egg-info/entry_points.txt
+rudolf2.egg-info/requires.txt
+rudolf2.egg-info/top_level.txt
+rudolf2.egg-info/zip-safe
